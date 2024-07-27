@@ -1,3 +1,5 @@
+Building an ARIMA Model for Mercedes Stock Price Prediction
+
 Project Title: Clearly state the name of the project.
 
 Project Description: A brief overview of what the project does.
