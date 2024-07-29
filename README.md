@@ -1,14 +1,14 @@
-Building a Price Series ARIMA Model for Mercedes Stock Price Prediction 
+__Building a Price Series ARIMA Model for Mercedes Stock Price Prediction__ 
 
  
 
-Project Brief: 
+<ins>Project Brief:</ins> 
 
 The aim of this Python project is to build and train an ARIMA model, to forecast and predict future stock prices for the German automotive company Mercedes-Benz. With the help of Python libraries such as NumPy, Pandas and Matplotlib, the forecasting process involves several key steps, including dataframe cleansing and preparation, tuning optimal parameters, training, and testing the model's performance. A critical aspect of time series forecasting is ensuring stationarity, meaning the statistical properties of the series does not change over time. In this project’s Jupyter Notebook you can follow the code of me carrying out the Augmented Dickey-Fuller (ADF) test, used to statistically verify stationarity. I then transform my series from non-stationary to stationary by differencing. With my stationary series I pick my models parameters to test and train my model with, and finally fit my model to the prepared data to generate accurate forecast values of future closing stock prices. 
 
  
 
-ARIMA Background 
+<ins>ARIMA Background</ins> 
 
 Auto Regressive Integrated Moving Average (ARIMA) model is a forecasting algorithm that takes into account past values to predict future values. 
 
@@ -18,7 +18,7 @@ As shown in Fig. 1, the ARIMA bases its predicted values off the lags and lagged
 
  
 
-Stationarity 
+<ins>Stationarity</ins>
 
 In order to produce and fit an ARIMA model, our time series must be stationary. 
 
@@ -32,7 +32,7 @@ To find the order of differencing we either can manually carry out an acf plot, 
 
  
 
-ARIMA Parameters 
+<ins>ARIMA Parameters</ins> 
 
 ARIMA models are characterised by 3 terms; p, d and q. 
 
@@ -50,7 +50,7 @@ To get our q term we inspect the Autocorrelation (ACF) plot. Our q term would be
 
  
 
-Conclusion 
+<ins>Conclusion</ins> 
 
 ARIMA time series forecasting was used as the forecast model due in this project due to it being a widely used and established model, relatively simple, and effective in short-term forecasting. 
 
