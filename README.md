@@ -13,7 +13,7 @@ ARIMA Background
 Auto Regressive Integrated Moving Average (ARIMA) model is a forecasting algorithm that takes into account past values to predict future values. 
 
 As shown in Fig. 1, the ARIMA bases its predicted values off the lags and lagged forecast errors. 
-![Figure, 1- ARIMA Model Formula]("C:\Users\vikra\Downloads\ARIMA Formula")
+![Figure, 1- ARIMA Model Formula](C:\Users\vikra\Downloads\ARIMA Formula)
 
  
 
