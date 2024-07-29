@@ -12,7 +12,7 @@ The aim of this Python project is to build and train an ARIMA model, to forecast
 
 Auto Regressive Integrated Moving Average (ARIMA) model is a forecasting algorithm that takes into account past values to predict future values. 
 
-As shown in Fig. 1, the ARIMA bases its predicted values off the lags and lagged forecast errors. 
+As shown below, the ARIMA bases its predicted values off the lags and lagged forecast errors. 
 
 ![Figure 1 - ARIMA Model Formula](ARIMA%20Formula.png)
 
