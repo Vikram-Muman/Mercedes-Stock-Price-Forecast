@@ -14,7 +14,7 @@ Auto Regressive Integrated Moving Average (ARIMA) model is a forecasting algorit
 
 As shown in Fig. 1, the ARIMA bases its predicted values off the lags and lagged forecast errors. 
 
-![Figure 1 - ARIMA Model Formula](images/ARIMA Formula.png)
+![Figure 1 - ARIMA Model Formula](ARIMA Formula.png)
 
  
 
