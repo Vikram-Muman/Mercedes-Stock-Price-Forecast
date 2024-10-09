@@ -1,4 +1,4 @@
-__Building a Price Series ARIMA Model for Mercedes Stock Price Prediction__ 
+__Building a Time Series ARIMA Model for Mercedes Stock Price Prediction__ 
 
  
 
